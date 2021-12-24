@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+#  Enter email and password
+# email: bipul@gmail.com
+# password: bipul
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
